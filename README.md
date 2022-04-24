@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botwtspp/Toxic-Alexa) 
         
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa/fork"><img align="center" src="https://i.imgur.com/nfRl7cd.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
